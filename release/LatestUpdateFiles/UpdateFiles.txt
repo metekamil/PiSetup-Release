@@ -1,0 +1,5 @@
+Newtonsoft.Json.dll
+PISetup.exe
+PISetup.exe.config
+Renci.SshNet.dll
+System.Runtime.InteropServices.RuntimeInformation.dll
